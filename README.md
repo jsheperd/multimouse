@@ -10,3 +10,5 @@ go build -o multimouse main.go && sudo ./multimouse
 ```
 
 Just move your pointers
+
+[![asciicast](https://asciinema.org/a/MQRPyFtJ6NQTD46YHjNwzZuDJ.png)](https://asciinema.org/a/MQRPyFtJ6NQTD46YHjNwzZuDJ)
